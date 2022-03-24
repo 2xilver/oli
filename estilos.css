@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255, 255, 255)
+    ;}
+
+ul{
+    line-height: 20px;
+}
+    
+img{
+   width: 20%; 
+   float: left;
+   margin-right: 30px;
+   margin-top: 5px;
+}
+a{
+    float: right;
+}
+#siguientecen{
+    float: right;
+    margin-right: 10px;
+
+}
+#anteriorcen{
+    float: right;
+    margin-right: 30px;
+    
+
+}
+#anteriorfin{
+    float: right;
+    margin-right: 10px;
+}
+#siguienteprin{
+    float: right;
+    margin-right: 10px;
+}
